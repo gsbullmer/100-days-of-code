@@ -15,3 +15,11 @@
 **Thoughts:** Combining CSS variables and SCSS functions seems to not work. I might be able to figure out a workaround.
 
 **Link to work:** [Random Quote Machine](https://codepen.io/gsbullmer/pen/VPLbag)
+
+### Day 3: January 11, 2017
+
+**Today's Progress**: Worked on the Random Quote Generator app from Free Code Camp. Finished up styling and layout and worked on improved functionality in setting a random color. Also worked with `@keyframes` for the `shake` animation. The only functionality that's left is the Twitter integration.
+
+**Thoughts:** Flexbox is the devil! But I know I need to learn it.
+
+**Link to work:** [Random Quote Machine](https://codepen.io/gsbullmer/pen/VPLbag)
