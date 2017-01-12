@@ -23,3 +23,11 @@
 **Thoughts:** Flexbox is the devil! But I know I need to learn it.
 
 **Link to work:** [Random Quote Machine](https://codepen.io/gsbullmer/pen/VPLbag)
+
+### Day 4: January 12, 2017
+
+**Today's Progress**: Finished the Random Quote Machine project from FreeCodeCamp.
+
+**Thoughts:** I was trying to use Foundation's `reveal` component to display the Tweet form, but had some issues I couldn't figure out, and decided it wasn't worth the effort at this time.
+
+**Link to work:** [Random Quote Machine](https://codepen.io/gsbullmer/pen/VPLbag)
