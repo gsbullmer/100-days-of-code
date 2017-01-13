@@ -31,3 +31,11 @@
 **Thoughts:** I was trying to use Foundation's `reveal` component to display the Tweet form, but had some issues I couldn't figure out, and decided it wasn't worth the effort at this time.
 
 **Link to work:** [Random Quote Machine](https://codepen.io/gsbullmer/pen/VPLbag)
+
+### Day 5: January 13, 2017
+
+**Today's Progress**: Started the Local Weather app from FreeCodeCamp.
+
+**Thoughts:** I've decided to also learn React at the same time for this app. Plus, browser security is annoying.
+
+**Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
