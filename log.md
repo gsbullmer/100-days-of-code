@@ -39,3 +39,11 @@
 **Thoughts:** I've decided to also learn React at the same time for this app. Plus, browser security is annoying.
 
 **Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
+
+### Day 6: January 14, 2017
+
+**Today's Progress**: Continued working on the Local Weather app from FreeCodeCamp.
+
+**Thoughts:** I've been struggling to figure out React. Not giving up just yet, but maybe using Code Pen isn't the best way to learn it. Also, I'm _learning_ how to use Code Pen, too. Figuring out how to do things when you don't have access to all the different files that the documentation wants you to have is frustrating.
+
+**Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
