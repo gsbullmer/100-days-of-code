@@ -55,3 +55,11 @@
 **Thoughts:** I've successfully coded over the weekend, which is where I thought I would have had trouble staying committed. This is HUGE for me. Also, React is starting to make sense to me now, after having spent some time going through the docs.
 
 **Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
+
+### Day 8: January 16, 2017
+
+**Today's Progress**: Took a break from FreeCodeCamp projects to play with React.
+
+**Thoughts:** I think I'm getting the hang of what React can do and I'm starting to like it better than Angular. We'll see what I think of it when I use it for a meatier project in the near future.
+
+**Link to work:** [React Playground](http://codepen.io/gsbullmer/pen/RKGqoB)
