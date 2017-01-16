@@ -47,3 +47,11 @@
 **Thoughts:** I've been struggling to figure out React. Not giving up just yet, but maybe using Code Pen isn't the best way to learn it. Also, I'm _learning_ how to use Code Pen, too. Figuring out how to do things when you don't have access to all the different files that the documentation wants you to have is frustrating.
 
 **Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
+
+### Day 7: January 15, 2017
+
+**Today's Progress**: Continued working on the Local Weather app from FreeCodeCamp and learning React while doing so.
+
+**Thoughts:** I've successfully coded over the weekend, which is where I thought I would have had trouble staying committed. This is HUGE for me. Also, React is starting to make sense to me now, after having spent some time going through the docs.
+
+**Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
