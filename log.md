@@ -70,4 +70,4 @@
 
 **Thoughts:** Most of what I've learned about React has clicked and I feel confident to implement React into my Weather app. So far, so good.
 
-**Link to work:** [React Playground](http://codepen.io/gsbullmer/pen/RKGqoB) [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
+**Link to work:** [React Playground](http://codepen.io/gsbullmer/pen/RKGqoB), [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
