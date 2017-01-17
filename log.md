@@ -63,3 +63,11 @@
 **Thoughts:** I think I'm getting the hang of what React can do and I'm starting to like it better than Angular. We'll see what I think of it when I use it for a meatier project in the near future.
 
 **Link to work:** [React Playground](http://codepen.io/gsbullmer/pen/RKGqoB)
+
+### Day 9: January 17, 2017
+
+**Today's Progress**: Finished going through the React: Getting Started and continued work on the Local Weather app from FreeCodeCamp.
+
+**Thoughts:** Most of what I've learned about React has clicked and I feel confident to implement React into my Weather app. So far, so good.
+
+**Link to work:** [React Playground](http://codepen.io/gsbullmer/pen/RKGqoB) [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
