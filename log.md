@@ -71,3 +71,11 @@
 **Thoughts:** Most of what I've learned about React has clicked and I feel confident to implement React into my Weather app. So far, so good.
 
 **Link to work:** [React Playground](http://codepen.io/gsbullmer/pen/RKGqoB), [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
+
+### Day 10: January 18, 2017
+
+**Today's Progress**: Made some excellent progress on the Local Weather app from FreeCodeCamp. Just about all of the framework and functionality is finished, just need to style it.
+
+**Thoughts:** Still have a bit to go before fully understanding React, but I think I know enough to be dangerous.
+
+**Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
