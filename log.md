@@ -79,3 +79,11 @@
 **Thoughts:** Still have a bit to go before fully understanding React, but I think I know enough to be dangerous.
 
 **Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
+
+### Day 11: January 19, 2017
+
+**Today's Progress**: All functionality of the Local Weather app from FreeCodeCamp is finished! I just need to stylize it.
+
+**Thoughts:** Now that I'm trying to style the app, Flexbox rears its ugly, unexpected head. The fact that this is a React app and all my classes are assigned in my javascript file make matters even more tedious to get an idea of how the app is _actually_ structured.
+
+**Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
