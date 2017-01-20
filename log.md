@@ -87,3 +87,11 @@
 **Thoughts:** Now that I'm trying to style the app, Flexbox rears its ugly, unexpected head. The fact that this is a React app and all my classes are assigned in my javascript file make matters even more tedious to get an idea of how the app is _actually_ structured.
 
 **Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
+
+### Day 12: January 20, 2017
+
+**Today's Progress**: Still working on styling the app.
+
+**Thoughts:** I have a hard time visualizing my app and then styling it to what I see in my head.
+
+**Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
