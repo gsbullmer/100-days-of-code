@@ -103,3 +103,11 @@
 **Thoughts:** Now I'm having a hard time visualizing my app. I really should have started with a layout, then made it dynamic. I instead designed to the data that was available. Now I feel like I'm constantly changing design descisions based on the content that should have been decided on earlier in the process. I'm marking this down as a "lesson learned."
 
 **Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
+
+### Day 14: January 23, 2017
+
+**Today's Progress**: Yet more styling... I may never finish this app...
+
+**Thoughts:** I've changed the layout _yet again,_ after starting at the mobile level and realized that it doesn't look very good at smaller sizes, _especially_ going between portrait and landscape. I fell like I've really botched the design of this app.
+
+**Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
