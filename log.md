@@ -95,3 +95,11 @@
 **Thoughts:** I have a hard time visualizing my app and then styling it to what I see in my head.
 
 **Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
+
+### Day 13: January 22, 2017
+
+**Today's Progress**: Missed a day, but I'm still working on styling the app.
+
+**Thoughts:** Now I'm having a hard time visualizing my app. I really should have started with a layout, then made it dynamic. I instead designed to the data that was available. Now I feel like I'm constantly changing design descisions based on the content that should have been decided on earlier in the process. I'm marking this down as a "lesson learned."
+
+**Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
