@@ -111,3 +111,11 @@
 **Thoughts:** I've changed the layout _yet again,_ after starting at the mobile level and realized that it doesn't look very good at smaller sizes, _especially_ going between portrait and landscape. I fell like I've really botched the design of this app.
 
 **Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
+
+### Day 15: January 24, 2017
+
+**Today's Progress**: Worked on some different layout ideas.
+
+**Thoughts:** Now that I've redone the layout of the app, I think it'll work on all screens much more effectively. _I need to move past this project!_
+
+**Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
