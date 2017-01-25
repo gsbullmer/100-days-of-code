@@ -119,3 +119,11 @@
 **Thoughts:** Now that I've redone the layout of the app, I think it'll work on all screens much more effectively. _I need to move past this project!_
 
 **Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
+
+### Day 16: January 25, 2017
+
+**Today's Progress**: Finalized the layout (_finally!_). Need to do some final styling and a couple functionality things and I'm calling it done!
+
+**Thoughts:** With the layout finished, I'm finally seeing the light at the end of the tunnel. Now I've got to figure out how to get the off-canvas element to work. This project has made me realize I was using Foundation for the sake of using Foundation. Maybe I don't need it?
+
+**Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
