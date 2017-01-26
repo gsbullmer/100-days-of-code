@@ -127,3 +127,11 @@
 **Thoughts:** With the layout finished, I'm finally seeing the light at the end of the tunnel. Now I've got to figure out how to get the off-canvas element to work. This project has made me realize I was using Foundation for the sake of using Foundation. Maybe I don't need it?
 
 **Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
+
+### Day 17: January 26, 2017
+
+**Today's Progress**: Worked on styling the app some. Hopefully I'll finish tomorrow.
+
+**Thoughts:** Just didn't get as much done today as I would have liked.
+
+**Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
