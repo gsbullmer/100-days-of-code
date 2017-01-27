@@ -130,8 +130,8 @@
 
 ### Day 17: January 26, 2017
 
-**Today's Progress**: Worked on styling the app some. Hopefully I'll finish tomorrow.
+**Today's Progress**: Finished the styling of app!
 
-**Thoughts:** Just didn't get as much done today as I would have liked.
+**Thoughts:** I've finished this project! Time to move on to other things.
 
 **Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
