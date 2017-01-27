@@ -135,3 +135,11 @@
 **Thoughts:** I've finished this project! Time to move on to other things.
 
 **Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
+
+### Day 18: January 27, 2017
+
+**Today's Progress**: Well, I thought I was finished with the app yesterday, but then found a few things to troubleshoot on mobile. Those are fixed now, and I'm extremely happy with the results.
+
+**Thoughts:** I only _thought_ I finished the Local Weather app! I made some tweaks to make for a better experience on mobile. Now I'm moving on to the Wikipedia Search app tomorrow.
+
+**Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
