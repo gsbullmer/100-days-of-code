@@ -143,3 +143,11 @@
 **Thoughts:** I only _thought_ I finished the Local Weather app! I made some tweaks to make for a better experience on mobile. Now I'm moving on to the Wikipedia Search app tomorrow.
 
 **Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
+
+### Day 19: January 30, 2017
+
+**Today's Progress**: I started working on the Wikipedia Viewer app from FreeCodeCamp today.
+
+**Thoughts:** I'm having issues with CORS and the wikimedia API. I think CORS is implemented on the remote server, so there's nothing I can do about it on my end. I've seen where JSONP can be used instead, so I'm having to learn about that.
+
+**Link to work:** [Wikipedia Viewer](http://codepen.io/gsbullmer/pen/PWEdqw)
