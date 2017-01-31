@@ -151,3 +151,11 @@
 **Thoughts:** I'm having issues with CORS and the wikimedia API. I think CORS is implemented on the remote server, so there's nothing I can do about it on my end. I've seen where JSONP can be used instead, so I'm having to learn about that.
 
 **Link to work:** [Wikipedia Viewer](http://codepen.io/gsbullmer/pen/PWEdqw)
+
+### Day 20: January 31, 2017
+
+**Today's Progress**: Made some great progress on the Wikipedia Viewer app.
+
+**Thoughts:** I've gotten past the CORS issue by utilizing JSONP. Now I'm working on getting my app to look the way I want it to. I've run into an issue that I need to use the non-minified version of React to troubleshoot. Currently, it won't display search results anymore.
+
+**Link to work:** [Wikipedia Viewer](http://codepen.io/gsbullmer/pen/PWEdqw)
