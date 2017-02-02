@@ -159,3 +159,11 @@
 **Thoughts:** I've gotten past the CORS issue by utilizing JSONP. Now I'm working on getting my app to look the way I want it to. I've run into an issue that I need to use the non-minified version of React to troubleshoot. Currently, it won't display search results anymore.
 
 **Link to work:** [Wikipedia Viewer](http://codepen.io/gsbullmer/pen/PWEdqw)
+
+### Day 21: February 1, 2017
+
+**Today's Progress**: App has all functionality working now. Attempted to impement GSAP for rich animation. It did not work.
+
+**Thoughts:** GSAP isn't the easiest thing to use, since the documentation on it seems _off_, like its for AS3 instead of JS. Plus, most of the examples I've seen with getting it working in React are outdated to the point that they use depricated methods no longer available in the current version. Oh well. I will persevere.
+
+**Link to work:** [Wikipedia Viewer](http://codepen.io/gsbullmer/pen/PWEdqw)
