@@ -154,7 +154,7 @@
 
 ### Day 20: January 31, 2017
 
-**Today's Progress**: Made some great progress on the Wikipedia Viewer app.
+**Today's Progress**: Made some great progress on the Wikipedia Viewer app. Also, I worked on a Python script to convert a JSON object to CSV for easier external use. No link as this is work-related.
 
 **Thoughts:** I've gotten past the CORS issue by utilizing JSONP. Now I'm working on getting my app to look the way I want it to. I've run into an issue that I need to use the non-minified version of React to troubleshoot. Currently, it won't display search results anymore.
 
@@ -167,3 +167,11 @@
 **Thoughts:** GSAP isn't the easiest thing to use, since the documentation on it seems _off_, like its for AS3 instead of JS. Plus, most of the examples I've seen with getting it working in React are outdated to the point that they use depricated methods no longer available in the current version. Oh well. I will persevere.
 
 **Link to work:** [Wikipedia Viewer](http://codepen.io/gsbullmer/pen/PWEdqw)
+
+### Day 22: February 2, 2017
+
+**Today's Progress**: Took a break on the Wikipedia Viewer app and continued working on my Python script for work. This time, I added functionality to take that CSV and convert it back to JSON.
+
+**Thoughts:** I really miss working in Python. This particular challenge involved reading in a CSV file, line by line, and converting it to a JSON object with nesting. Much more difficult to go backwards.
+
+**Link to work:** No link today :(
