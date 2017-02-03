@@ -175,3 +175,11 @@
 **Thoughts:** I really miss working in Python. This particular challenge involved reading in a CSV file, line by line, and converting it to a JSON object with nesting. Much more difficult to go backwards.
 
 **Link to work:** No link today :(
+
+### Day 23: February 3, 2017
+
+**Today's Progress**: Worked primarily on adding some animation and styling to the Wikipedia Viewer app.
+
+**Thoughts:** Today's pain point was making a "sticky" header without using Foundation's JS libraries. Felt a little silly to add JQuery and Foundation libraries just to make a sticky header.
+
+**Link to work:** [Wikipedia Viewer](http://codepen.io/gsbullmer/pen/PWEdqw)
