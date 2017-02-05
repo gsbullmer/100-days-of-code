@@ -183,3 +183,11 @@
 **Thoughts:** Today's pain point was making a "sticky" header without using Foundation's JS libraries. Felt a little silly to add JQuery and Foundation libraries just to make a sticky header.
 
 **Link to work:** [Wikipedia Viewer](http://codepen.io/gsbullmer/pen/PWEdqw)
+
+### Day 24: February 4, 2017
+
+**Today's Progress**: Finished the Wikipedia Viewer app from FreeCodeCamp... for now.
+
+**Thoughts:** All the functionality is there according to the User Stories. It's not the prettiest app in the world, but it does what it's supposed to do. I may revisit this later on.
+
+**Link to work:** [Wikipedia Viewer](http://codepen.io/gsbullmer/pen/PWEdqw)
