@@ -191,3 +191,11 @@
 **Thoughts:** All the functionality is there according to the User Stories. It's not the prettiest app in the world, but it does what it's supposed to do. I may revisit this later on.
 
 **Link to work:** [Wikipedia Viewer](http://codepen.io/gsbullmer/pen/PWEdqw)
+
+### Day 25: February 6, 2017
+
+**Today's Progress**: Started the Twitch.tv JSON API app from FreeCodeCamp. I started with the design first, which I feel is finished. I started working on some functionality.
+
+**Thoughts:** It's amazing how much more confident I feel about the design of this app than I have about previous ones right out of the gate. I didn't let functionality dictate my design, and instead I'll let design dictate function.
+
+**Link to work:** [Twitch.tv JSON API](http://codepen.io/gsbullmer/pen/NdBdNv)
