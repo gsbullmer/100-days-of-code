@@ -199,3 +199,11 @@
 **Thoughts:** It's amazing how much more confident I feel about the design of this app than I have about previous ones right out of the gate. I didn't let functionality dictate my design, and instead I'll let design dictate function.
 
 **Link to work:** [Twitch.tv JSON API](http://codepen.io/gsbullmer/pen/NdBdNv)
+
+### Day 26: February 7, 2017
+
+**Today's Progress**: Mostly worked on consuming the APIs for the Twitch.tv JSON API app.
+
+**Thoughts:** Still love the design I've gone with. Now I'm trying to decide the best way to consume multiple APIs for a single display object. Is it better to make several calls per display object or hold the info in the parent container and just pass the JSON data to the display object?
+
+**Link to work:** [Twitch.tv JSON API](http://codepen.io/gsbullmer/pen/NdBdNv)
