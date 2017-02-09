@@ -30,7 +30,7 @@
 
 **Thoughts:** I was trying to use Foundation's `reveal` component to display the Tweet form, but had some issues I couldn't figure out, and decided it wasn't worth the effort at this time.
 
-**Link to work:** [Random Quote Machine](https://codepen.io/gsbullmer/pen/VPLbag)
+**Link to work:** [Random Quote Machine](https://codepen.io/gsbullmer/full/VPLbag)
 
 ### Day 5: January 13, 2017
 
@@ -142,7 +142,7 @@
 
 **Thoughts:** I only _thought_ I finished the Local Weather app! I made some tweaks to make for a better experience on mobile. Now I'm moving on to the Wikipedia Search app tomorrow.
 
-**Link to work:** [Local Weather App](http://codepen.io/gsbullmer/pen/ggMoar/)
+**Link to work:** [Local Weather App](http://codepen.io/gsbullmer/full/ggMoar/)
 
 ### Day 19: January 30, 2017
 
@@ -190,7 +190,7 @@
 
 **Thoughts:** All the functionality is there according to the User Stories. It's not the prettiest app in the world, but it does what it's supposed to do. I may revisit this later on.
 
-**Link to work:** [Wikipedia Viewer](http://codepen.io/gsbullmer/pen/PWEdqw)
+**Link to work:** [Wikipedia Viewer](http://codepen.io/gsbullmer/full/PWEdqw)
 
 ### Day 25: February 6, 2017
 
@@ -214,4 +214,4 @@
 
 **Thoughts:** I finished up all of the required User Stories and added a way for the user to add and remove thier own channels. **_BONUS!_** I think I can improve the user input by validating that the user they added exists before adding it to the list, but it does show up as _Not found_ as the status in the list. I did protect against empty input, though.
 
-**Link to work:** [Twitch.tv JSON API](http://codepen.io/gsbullmer/pen/NdBdNv)
+**Link to work:** [Twitch.tv JSON API](http://codepen.io/gsbullmer/full/NdBdNv)
