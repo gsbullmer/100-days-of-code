@@ -207,3 +207,11 @@
 **Thoughts:** Still love the design I've gone with. Now I'm trying to decide the best way to consume multiple APIs for a single display object. Is it better to make several calls per display object or hold the info in the parent container and just pass the JSON data to the display object?
 
 **Link to work:** [Twitch.tv JSON API](http://codepen.io/gsbullmer/pen/NdBdNv)
+
+### Day 27: February 8, 2017
+
+**Today's Progress**: Finished the Twitch.tv JSON API app for FreeCodeCamp, plus added some bonus functionality.
+
+**Thoughts:** I finished up all of the required User Stories and added a way for the user to add and remove thier own channels. **_BONUS!_** I think I can improve the user input by validating that the user they added exists before adding it to the list, but it does show up as _Not found_ as the status in the list. I did protect against empty input, though.
+
+**Link to work:** [Twitch.tv JSON API](http://codepen.io/gsbullmer/pen/NdBdNv)
