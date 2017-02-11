@@ -223,3 +223,11 @@
 **Thoughts:** I only _thought_ I was finished with this. After showing it to a collegue of mine, I noticed some unexpected behavior that I introduced with one of my previous changes. I also added some more styling to the tabs and input to make them a little more aesthetically pleasing. Lastly, I changed some components to be just functions for future optimization, and moved the status icon into its own component.
 
 **Link to work:** [Twitch.tv JSON API](http://codepen.io/gsbullmer/full/NdBdNv)
+
+### Day 29: February 10, 2017
+
+**Today's Progress**: Worked on Advanced Algorithms in FreeCodeCamp.
+
+**Thoughts:** As much as I like the feeling of building things, I really enjoy coding algorithms. They feel like puzzles, and help me with critical and creative thinking.
+
+**Link to work:** No link today.
