@@ -231,3 +231,11 @@
 **Thoughts:** As much as I like the feeling of building things, I really enjoy coding algorithms. They feel like puzzles, and help me with critical and creative thinking.
 
 **Link to work:** No link today.
+
+### Day 30: February 11, 2017
+
+**Today's Progress**: Worked on a bugfix for a VS Code theme I use that broke with the last update.
+
+**Thoughts:** This wasn't so much a _programming_ day, but rather contributing to the open source community.
+
+**Link to work:** [theme-dark-monokai](https://github.com/gsbullmer/theme-dark-monokai)
