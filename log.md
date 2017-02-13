@@ -226,7 +226,7 @@
 
 ### Day 29: February 10, 2017
 
-**Today's Progress**: Worked on Advanced Algorithms in FreeCodeCamp.
+**Today's Progress**: Worked on Intermediate Algorithms in FreeCodeCamp.
 
 **Thoughts:** As much as I like the feeling of building things, I really enjoy coding algorithms. They feel like puzzles, and help me with critical and creative thinking.
 
@@ -239,3 +239,11 @@
 **Thoughts:** This wasn't so much a _programming_ day, but rather contributing to the open source community.
 
 **Link to work:** [theme-dark-monokai](https://github.com/gsbullmer/theme-dark-monokai)
+
+### Day 31: February 12, 2017
+
+**Today's Progress**: Worked on Intermediate Algorithms in FreeCodeCamp.
+
+**Thoughts:** Still enjoy working on algorithms! Some of them have been tricky, while others seemed too easy.
+
+**Link to work:** No link today.
