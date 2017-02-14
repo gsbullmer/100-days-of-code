@@ -255,3 +255,11 @@
 **Thoughts:** Moar algorithms!!!
 
 **Link to work:** No link today.
+
+### Day 33: February 14, 2017
+
+**Today's Progress**: Worked on Intermediate Algorithms in FreeCodeCamp.
+
+**Thoughts:** Moar algorithms!!!
+
+**Link to work:** No link today.
