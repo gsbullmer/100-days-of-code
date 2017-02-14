@@ -247,3 +247,11 @@
 **Thoughts:** Still enjoy working on algorithms! Some of them have been tricky, while others seemed too easy.
 
 **Link to work:** No link today.
+
+### Day 32: February 13, 2017
+
+**Today's Progress**: Worked on Intermediate Algorithms in FreeCodeCamp.
+
+**Thoughts:** Moar algorithms!!!
+
+**Link to work:** No link today.
