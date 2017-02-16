@@ -271,3 +271,11 @@
 **Thoughts:** Moving on to Advanced Algorithms!
 
 **Link to work:** No link today.
+
+### Day 35: February 16, 2017
+
+**Today's Progress**: Started the Advanced Algorithms section in FreeCodeCamp.
+
+**Thoughts:** The first one took me a bit to figure out.
+
+**Link to work:** No link today.
