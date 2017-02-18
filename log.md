@@ -279,3 +279,11 @@
 **Thoughts:** The first one took me a bit to figure out.
 
 **Link to work:** No link today.
+
+### Day 36: February 17, 2017
+
+**Today's Progress**: Continued working on the Advanced Algorithms section in FreeCodeCamp.
+
+**Thoughts:** These take significantly longer than the previous section...
+
+**Link to work:** No link today.
