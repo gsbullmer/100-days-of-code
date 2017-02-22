@@ -295,3 +295,11 @@
 **Thoughts:** Today's stumbling block was performing math on floating-point numbers, due to the fact that they can't be accurately represented in binary. My workaround was using a _lot_ of `Number(num.toFixed(2))` calculations. I might have overdone it, but it works.
 
 **Link to work:** No link today.
+
+### Day 38: February 21, 2017
+
+**Today's Progress**: More Advanced Algorithms today.
+
+**Thoughts:** JavaScript seems to be lacking in built-in utility functions.
+
+**Link to work:** No link today.
