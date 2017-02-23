@@ -303,3 +303,11 @@
 **Thoughts:** JavaScript seems to be lacking in built-in utility functions.
 
 **Link to work:** No link today.
+
+### Day 39: February 22, 2017
+
+**Today's Progress**: More Advanced Algorithms today.
+
+**Thoughts:** Ah, dates...
+
+**Link to work:** No link today.
