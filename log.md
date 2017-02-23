@@ -311,3 +311,11 @@
 **Thoughts:** Ah, dates...
 
 **Link to work:** No link today.
+
+### Day 40: February 23, 2017
+
+**Today's Progress**: Finished the last of the Advanced Algorithms on FreeCodeCamp!
+
+**Thoughts:** Next, on to actual projects. I'm ready for this!
+
+**Link to work:** No link today.
