@@ -319,3 +319,11 @@
 **Thoughts:** Next, on to actual projects. I'm ready for this!
 
 **Link to work:** No link today.
+
+### Day 41: February 27, 2017
+
+**Today's Progress**: Started the JavaScript Calculator project on FreeCodeCamp.
+
+**Thoughts:** Missed a few days, but I think I'm back on track. Got a basic framework in place and started working on laying out the React components.
+
+**Link to work:** http://codepen.io/gsbullmer/pen/qrEZzX
