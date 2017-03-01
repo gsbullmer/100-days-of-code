@@ -327,3 +327,11 @@
 **Thoughts:** Missed a few days, but I think I'm back on track. Got a basic framework in place and started working on laying out the React components.
 
 **Link to work:** http://codepen.io/gsbullmer/pen/qrEZzX
+
+## Day 42: March 1, 2017
+
+**Today's Progress**: Continued work on the JavaScript Calculator project on FreeCodeCamp.
+
+**Thoughts:** Missed another day... Did some more styling and started adding some functionality in React.
+
+**Link to work:** http://codepen.io/gsbullmer/pen/qrEZzX
