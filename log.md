@@ -335,3 +335,11 @@
 **Thoughts:** Missed another day... Did some more styling and started adding some functionality in React.
 
 **Link to work:** http://codepen.io/gsbullmer/pen/qrEZzX
+
+## Day 43: March 2, 2017
+
+**Today's Progress**: Continued work on the JavaScript Calculator project on FreeCodeCamp.
+
+**Thoughts:** All of the basic functionality is working. Still need to really look at the design and I would like to add keypresses to make more user-friendly.
+
+**Link to work:** http://codepen.io/gsbullmer/pen/qrEZzX
