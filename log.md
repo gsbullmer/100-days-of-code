@@ -343,3 +343,11 @@
 **Thoughts:** All of the basic functionality is working. Still need to really look at the design and I would like to add keypresses to make more user-friendly.
 
 **Link to work:** http://codepen.io/gsbullmer/pen/qrEZzX
+
+## Day 44: March 3, 2017
+
+**Today's Progress**: Finished functionality of the JavaScript Calculator project on FreeCodeCamp.
+
+**Thoughts:** Functionality is finished, including keypresses. Started working on styling it a bit more. I think I'm going for a transparent glass-like design with animated pulses on hover and click.
+
+**Link to work:** http://codepen.io/gsbullmer/pen/qrEZzX
