@@ -326,7 +326,7 @@
 
 **Thoughts:** Missed a few days, but I think I'm back on track. Got a basic framework in place and started working on laying out the React components.
 
-**Link to work:** http://codepen.io/gsbullmer/pen/qrEZzX
+**Link to work:** [JavaScript Calculator](http://codepen.io/gsbullmer/pen/qrEZzX)
 
 ## Day 42: March 1, 2017
 
@@ -334,7 +334,7 @@
 
 **Thoughts:** Missed another day... Did some more styling and started adding some functionality in React.
 
-**Link to work:** http://codepen.io/gsbullmer/pen/qrEZzX
+**Link to work:** [JavaScript Calculator](http://codepen.io/gsbullmer/pen/qrEZzX)
 
 ## Day 43: March 2, 2017
 
@@ -342,7 +342,7 @@
 
 **Thoughts:** All of the basic functionality is working. Still need to really look at the design and I would like to add keypresses to make more user-friendly.
 
-**Link to work:** http://codepen.io/gsbullmer/pen/qrEZzX
+**Link to work:** [JavaScript Calculator](http://codepen.io/gsbullmer/pen/qrEZzX)
 
 ## Day 44: March 3, 2017
 
@@ -350,4 +350,12 @@
 
 **Thoughts:** Functionality is finished, including keypresses. Started working on styling it a bit more. I think I'm going for a transparent glass-like design with animated pulses on hover and click.
 
-**Link to work:** http://codepen.io/gsbullmer/pen/qrEZzX
+**Link to work:** [JavaScript Calculator](http://codepen.io/gsbullmer/pen/qrEZzX)
+
+## Day 45: March 6, 2017
+
+**Today's Progress**: Missed a couple more days, but I've finished the JavaScript Calculator project on FreeCodeCamp.
+
+**Thoughts:** Finished styling it today and reworked the way keyboard events are handled.
+
+**Link to work:** [JavaScript Calculator](http://codepen.io/gsbullmer/full/qrEZzX)
