@@ -367,6 +367,14 @@
 
 **Link to work:** [Portfolio][8]
 
+## Day 47: March 8, 2017
+
+**Today's Progress**: Started the Pomodoro Clock project from FreeCodeCamp.
+
+**Thoughts:** Creating the pie chart is a bit more difficult with plain CSS that I would have thought.
+
+**Link to work:** [Pomodoro Clock][9]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
@@ -375,3 +383,4 @@
 [6]: https://github.com/gsbullmer/theme-dark-monokai
 [7]: http://codepen.io/gsbullmer/full/qrEZzX
 [8]: http://codepen.io/gsbullmer/full/dpOBwA
+[9]: http://codepen.io/gsbullmer/full/QpdGgR
