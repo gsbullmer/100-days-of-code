@@ -359,6 +359,14 @@
 
 **Link to work:** [JavaScript Calculator][7]
 
+## Day 46: March 7, 2017
+
+**Today's Progress**: Added work to my portfolio.
+
+**Thoughts:** Before moving on to the next FCC project, I decided that I should add some example work to my portfolio.
+
+**Link to work:** [Portfolio][8]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
@@ -366,3 +374,4 @@
 [5]: http://codepen.io/gsbullmer/full/NdBdNv
 [6]: https://github.com/gsbullmer/theme-dark-monokai
 [7]: http://codepen.io/gsbullmer/full/qrEZzX
+[8]: http://codepen.io/gsbullmer/full/dpOBwA
