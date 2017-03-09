@@ -375,6 +375,14 @@
 
 **Link to work:** [Pomodoro Clock][9]
 
+## Day 48: March 9, 2017
+
+**Today's Progress**: Continued work on the Pomodoro Clock project from FreeCodeCamp.
+
+**Thoughts:** Worked on animation of the timer.
+
+**Link to work:** [Pomodoro Clock][9]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
