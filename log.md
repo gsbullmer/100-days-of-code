@@ -383,6 +383,14 @@
 
 **Link to work:** [Pomodoro Clock][9]
 
+## Day 49: March 13, 2017
+
+**Today's Progress**: Played around with Canvas for the animation of the timer. Continued work on the Pomodoro Clock project from FreeCodeCamp.
+
+**Thoughts:** I didn't like the look of the CSS animations, so I converted it to Canvas. I like it a lot more! Of course, I had to _learn_ canvas, but it looks better. I still need to add functionality, which will probably be done in React.
+
+**Link to work:** [Canvas Playground][10], [Pomodoro Clock][9]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
@@ -392,3 +400,4 @@
 [7]: http://codepen.io/gsbullmer/full/qrEZzX
 [8]: http://codepen.io/gsbullmer/full/dpOBwA
 [9]: http://codepen.io/gsbullmer/full/QpdGgR
+[10]: http://codepen.io/gsbullmer/pen/pewVyb
