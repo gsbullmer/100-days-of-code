@@ -391,6 +391,14 @@
 
 **Link to work:** [Canvas Playground][10], [Pomodoro Clock][9]
 
+## Day 50: March 20, 2017
+
+**Today's Progress**: Decided to pick up my Arduino again and tinker with it.
+
+**Thoughts:** Wow, its been a while since the last day... Taxes, work, baby, and just about everything else got in the way. Hopefully this will be the _longest_ break I take. Arduinos are fun!
+
+**Link to work:** No link :(
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
