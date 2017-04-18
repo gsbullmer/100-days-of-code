@@ -399,6 +399,14 @@
 
 **Link to work:** No link :(
 
+## Day 51: April 18, 2017
+
+**Today's Progress**: After a hiatus, continued work on the Pomodoro Clock project from FreeCodeCamp.
+
+**Thoughts:** After about a month away, I'm back! I picked up where I left off and started adding some more functionality to the timer. Still have to figure out how to start and stop the animation. Currently, it does some unexpected things and I'm not sure why.
+
+**Link to work:** [Pomodoro Clock][9]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
