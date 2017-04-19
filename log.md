@@ -407,6 +407,14 @@
 
 **Link to work:** [Pomodoro Clock][9]
 
+## Day 52: April 19, 2017
+
+**Today's Progress**: Worked on and completed most of the logic for the Pomodoro Clock project from FreeCodeCamp.
+
+**Thoughts:** I'm having trouble understanding why certain things are happening when using `requestAnimationFrames()`. It seems like its running multiple instances when the timer starts, causing a noticable lag in the page. Hopefully I'll get this figured out tomorrow.
+
+**Link to work:** [Pomodoro Clock][9]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
