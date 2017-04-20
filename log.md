@@ -415,6 +415,14 @@
 
 **Link to work:** [Pomodoro Clock][9]
 
+## Day 53: April 20, 2017
+
+**Today's Progress**: Finished the Pomodoro Clock project on FreeCodeCamp and started the Tic Tac Toe project.
+
+**Thoughts:** Finally figured out why my code seemed to run multiple times, causing a slowdown. Added play/pause icons to the clock to know if it is currently running. I'm sure there is some other functionality I could add to make it even more usable, like browser notifications, but I'm walking away from this for now. I also started programming the functionality of a Tic Tac Toe game. Currently, you can place your markers and it will check to see if there is a winner. I'm dreading working on the AI for this game...
+
+**Link to work:** [Pomodoro Clock][9], [Tic Tac Toe][11]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
@@ -424,4 +432,5 @@
 [7]: http://codepen.io/gsbullmer/full/qrEZzX
 [8]: http://codepen.io/gsbullmer/full/dpOBwA
 [9]: http://codepen.io/gsbullmer/full/QpdGgR
-[10]: http://codepen.io/gsbullmer/pen/pewVyb
+[10]: http://codepen.io/gsbullmer/full/pewVyb
+[11]: http://codepen.io/gsbullmer/pen/QvNgqw
