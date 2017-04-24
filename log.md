@@ -423,6 +423,14 @@
 
 **Link to work:** [Pomodoro Clock][9], [Tic Tac Toe][11]
 
+## Day 54: April 21, 2017
+
+**Today's Progress**: Worked on more logic for the Tic Tac Toe project.
+
+**Thoughts:** Today I read a lot about the Minimax algorithm that seems to be the peferect AI system for Tic Tac Toe. Now I just have to figure out the best way to implement it.
+
+**Link to work:** [Tic Tac Toe][11]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
