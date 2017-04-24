@@ -431,6 +431,14 @@
 
 **Link to work:** [Tic Tac Toe][11]
 
+## Day 55: April 24, 2017
+
+**Today's Progress**: Figured out how to clone an array for the Tic Tac Toe project in FreeCodeCamp.
+
+**Thoughts:** Copying one object to another seems more difficult than it should be. Why does JavaScript make certain things that should be easy to do so difficult?!
+
+**Link to work:** [Tic Tac Toe][11]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
