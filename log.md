@@ -439,6 +439,14 @@
 
 **Link to work:** [Tic Tac Toe][11]
 
+## Day 56: May 9, 2017
+
+**Today's Progress**: Finished day 7 of JavaScript30.
+
+**Thoughts:** I completely forgot about starting this at the beginning of the year! Thought I'd plug away at it again.
+
+**Link to work:** [JavaScript30][12]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
@@ -450,3 +458,4 @@
 [9]: http://codepen.io/gsbullmer/full/QpdGgR
 [10]: http://codepen.io/gsbullmer/full/pewVyb
 [11]: http://codepen.io/gsbullmer/pen/QvNgqw
+[12]: https://github.com/gsbullmer/JavaScript30
