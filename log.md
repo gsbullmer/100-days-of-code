@@ -447,6 +447,14 @@
 
 **Link to work:** [JavaScript30][12]
 
+## Day 57: May 10, 2017
+
+**Today's Progress**: Finished days 8 and 9 of JavaScript30.
+
+**Thoughts:** Learned some pretty cool things about the Dev Tools in Chrome. Also, made an interactive painting area in canvas. In other news, today is my 11th anniversary at MLink! Who knew?!
+
+**Link to work:** [JavaScript30][12]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
