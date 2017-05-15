@@ -471,6 +471,14 @@
 
 **Link to work:** [JavaScript30][12]
 
+## Day 60: May 15, 2017
+
+**Today's Progress**: Finished day 12 of JavaScript30.
+
+**Thoughts:** I'm still trying to figure out some of the odd parts about JavaScript. Things like how you can't directly compare two arrays to see if the equal the same thing...
+
+**Link to work:** [JavaScript30][12]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
