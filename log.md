@@ -479,6 +479,14 @@
 
 **Link to work:** [JavaScript30][12]
 
+## Day 61: May 16, 2017
+
+**Today's Progress**: Finished days 13 and 14 of JavaScript30.
+
+**Thoughts:** Finally learned more about Object and Array references vs copies.
+
+**Link to work:** [JavaScript30][12]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
