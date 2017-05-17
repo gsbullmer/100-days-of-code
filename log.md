@@ -487,6 +487,14 @@
 
 **Link to work:** [JavaScript30][12]
 
+## Day 62: May 17, 2017
+
+**Today's Progress**: Finished day 15 of JavaScript30.
+
+**Thoughts:** Learned about local storage and event delegation.
+
+**Link to work:** [JavaScript30][12]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
