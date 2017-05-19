@@ -495,6 +495,14 @@
 
 **Link to work:** [JavaScript30][12]
 
+## Day 63: May 19, 2017
+
+**Today's Progress**: Finished days 16 and 17 of JavaScript30.
+
+**Thoughts:** CSS shadow fun and advanced array sorting!
+
+**Link to work:** [JavaScript30][12]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
