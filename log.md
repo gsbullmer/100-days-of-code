@@ -503,6 +503,14 @@
 
 **Link to work:** [JavaScript30][12]
 
+## Day 64: May 23, 2017
+
+**Today's Progress**: Finished day 18 of JavaScript30.
+
+**Thoughts:** Counting time.
+
+**Link to work:** [JavaScript30][12]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
