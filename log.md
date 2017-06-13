@@ -519,6 +519,14 @@
 
 **Link to work:** [JavaScript30][12]
 
+## Day 66: June 13, 2017
+
+**Today's Progress**: I've been working through the Packt Pub book _Learning Python_.
+
+**Thoughts:** I'm not sure why I feel the need to keep starting over with learning Python. I _do_ pick up a few new things each time, but I feel like I've been learning the basics of Python for the past two years now!
+
+**Link to work:** [Learning Python][13]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
@@ -531,3 +539,4 @@
 [10]: http://codepen.io/gsbullmer/full/pewVyb
 [11]: http://codepen.io/gsbullmer/pen/QvNgqw
 [12]: https://github.com/gsbullmer/JavaScript30
+[13]: https://github.com/gsbullmer/learning.python
