@@ -527,6 +527,14 @@
 
 **Link to work:** [Learning Python][13]
 
+## Day 67: June 14, 2017
+
+**Today's Progress**: I've been working through the Packt Pub book _Learning Python_.
+
+**Thoughts:** More Python basics, but I keep learning new things. I've also been listening to the _Talk Python to me_ podcast, as well as the _Test and Code_ podcast. Also, I started using _enki_ yesterday to learn a bit about computer science and Python.
+
+**Link to work:** [Learning Python][13]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
