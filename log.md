@@ -535,6 +535,14 @@
 
 **Link to work:** [Learning Python][13]
 
+## Day 68: June 19, 2017
+
+**Today's Progress**: I've been working through the Packt Pub book _Learning Python_.
+
+**Thoughts:** Finished chapter 4 and started on chapter 5. I'm really excited to learn about code optimization.
+
+**Link to work:** [Learning Python][13]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
