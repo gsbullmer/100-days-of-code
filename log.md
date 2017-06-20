@@ -543,6 +543,14 @@
 
 **Link to work:** [Learning Python][13]
 
+## Day 69: June 20, 2017
+
+**Today's Progress**: I've been working through the Packt Pub book _Learning Python_.
+
+**Thoughts:** Finished chapter 5. I was looking forward to learning how to bendchmark my software code, but this didn't cover it. I did, however, learn about multiple ways to do the same thing, and how each version has its pros and cons.
+
+**Link to work:** [Learning Python][13]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
