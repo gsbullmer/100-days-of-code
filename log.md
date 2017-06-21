@@ -551,6 +551,14 @@
 
 **Link to work:** [Learning Python][13]
 
+## Day 70: June 21, 2017
+
+**Today's Progress**: I've been working through the Packt Pub book _Learning Python_.
+
+**Thoughts:** Started chapter 6. I'm pretty familiar with OOP in general, so it'll be nice to dig into what Python has to offer.
+
+**Link to work:** [Learning Python][13]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
