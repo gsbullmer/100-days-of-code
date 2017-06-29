@@ -567,6 +567,14 @@
 
 **Link to work:** [Learning Python][13]
 
+## Day 72: June 29, 2017
+
+**Today's Progress**: I've been working through the Packt Pub book _Learning Python_.
+
+**Thoughts:** Started chapter 7, which is all about testing. I've never really learned testing, so this should be good.
+
+**Link to work:** [Learning Python][13]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
