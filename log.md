@@ -583,6 +583,22 @@
 
 **Link to work:** [Learning Python][13]
 
+## Day 74: July 14, 2017
+
+**Today's Progress**: For a change of pace, started working on missions for CheckiO.
+
+**Thoughts:** Since work picked up, I needed something less demanding of my time. I heard about CheckiO on _Talk Python to Me_, so I decided to check it out. So far, I'm enjoying it.
+
+**Link to work:** [CheckiO][14]
+
+## Day 75: July 17, 2017
+
+**Today's Progress**: Continued working on missions for CheckiO.
+
+**Thoughts:** I like this better than _Code Wars_ since it feels more curated. Sometimes, there's an explination of real world use for the solutions, which I appreciate as someone who doesn't have much professional software engineering experience.
+
+**Link to work:** [CheckiO][14]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
@@ -596,3 +612,4 @@
 [11]: http://codepen.io/gsbullmer/pen/QvNgqw
 [12]: https://github.com/gsbullmer/JavaScript30
 [13]: https://github.com/gsbullmer/learning.python
+[14]: https://github.com/gsbullmer/checkio
