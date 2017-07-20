@@ -599,6 +599,22 @@
 
 **Link to work:** [CheckiO][14]
 
+## Day 76: July 19, 2017
+
+**Today's Progress**: Continued working on missions for CheckiO.
+
+**Thoughts:** I hope I'm doing ok with my solutions. Sometimes I feel like just solving the problem isn't good enough.
+
+**Link to work:** [CheckiO][14]
+
+## Day 77: July 20, 2017
+
+**Today's Progress**: Continued working on missions for CheckiO.
+
+**Thoughts:** I would love to have others look at my code and critique it.
+
+**Link to work:** [CheckiO][14]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
