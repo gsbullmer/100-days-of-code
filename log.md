@@ -615,6 +615,14 @@
 
 **Link to work:** [CheckiO][14]
 
+## Day 78: July 24, 2017
+
+**Today's Progress**: Continued working on missions for CheckiO.
+
+**Thoughts:** Finished the Home island.
+
+**Link to work:** [CheckiO][14]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
