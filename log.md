@@ -623,6 +623,14 @@
 
 **Link to work:** [CheckiO][14]
 
+## Day 79: July 26, 2017
+
+**Today's Progress**: Continued working on missions for CheckiO.
+
+**Thoughts:** Productive day today! Finished five missions in the Elementary zone.
+
+**Link to work:** [CheckiO][14]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
