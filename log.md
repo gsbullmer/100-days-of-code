@@ -639,6 +639,14 @@
 
 **Link to work:** [CheckiO][14]
 
+## Day 81: August 3, 2017
+
+**Today's Progress**: Continued working on missions for CheckiO.
+
+**Thoughts:** Finished the Elementary zone and started the O'Reilly zone.
+
+**Link to work:** [CheckiO][14]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
