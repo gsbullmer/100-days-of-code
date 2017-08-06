@@ -619,7 +619,7 @@
 
 **Today's Progress**: Continued working on missions for CheckiO.
 
-**Thoughts:** Finished the Home island.
+**Thoughts:** Finished the Home station.
 
 **Link to work:** [CheckiO][14]
 
@@ -627,7 +627,7 @@
 
 **Today's Progress**: Continued working on missions for CheckiO.
 
-**Thoughts:** Productive day today! Finished five missions in the Elementary zone.
+**Thoughts:** Productive day today! Finished five missions in the Elementary station.
 
 **Link to work:** [CheckiO][14]
 
@@ -635,7 +635,7 @@
 
 **Today's Progress**: Continued working on missions for CheckiO.
 
-**Thoughts:** Productive day today! Finished three missions in the Elementary zone.
+**Thoughts:** Productive day today! Finished three missions in the Elementary station.
 
 **Link to work:** [CheckiO][14]
 
@@ -643,7 +643,23 @@
 
 **Today's Progress**: Continued working on missions for CheckiO.
 
-**Thoughts:** Finished the Elementary zone and started the O'Reilly zone.
+**Thoughts:** Finished the Elementary zone and started the O'Reilly station.
+
+**Link to work:** [CheckiO][14]
+
+## Day 82: August 5, 2017
+
+**Today's Progress**: Continued working on missions for CheckiO.
+
+**Thoughts:** Continued working on the O'Reilly station.
+
+**Link to work:** [CheckiO][14]
+
+## Day 83: August 6, 2017
+
+**Today's Progress**: Continued working on missions for CheckiO.
+
+**Thoughts:** Continued working on the O'Reilly station. There are five missions that are locked, so I'm considering paying to Become Awesome. I like what the devs have done, so I think its appropriate to show them.
 
 **Link to work:** [CheckiO][14]
 
