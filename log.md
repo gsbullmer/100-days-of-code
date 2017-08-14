@@ -671,6 +671,14 @@
 
 **Link to work:** [CheckiO][14]
 
+## Day 85: August 14, 2017
+
+**Today's Progress**: Finished days 20 through 25 of JavaScript30.
+
+**Thoughts:** Lots of days completed today! My goal is to finish JavaScript30 before moving to anything else again. I've gotten into the habit of not coming back to things I've started when I get pulled off onto something else. Then, I inevitably start a different project when I have freetime. Well, not any more! I'm finishing JavaScript30, then Learning Python, and finally, FreeCodeCamp Front-End program.
+
+**Link to work:** [JavaScript30][12]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
