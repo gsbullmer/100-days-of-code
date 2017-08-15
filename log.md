@@ -679,6 +679,14 @@
 
 **Link to work:** [JavaScript30][12]
 
+## Day 86: August 15, 2017
+
+**Today's Progress**: Finished days 26 through 30 of JavaScript30.
+
+**Thoughts:** That's right, I _finished_ JavaScript30 today! It's amazing what happens when my work load is light and I can actually concentrate on doing the things that interest me. Next up, maybe finishing FreeCodeCamp or Learning Python.
+
+**Link to work:** [JavaScript30][12]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
