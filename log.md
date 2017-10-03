@@ -695,6 +695,14 @@
 
 **Link to work:** [iBGdb][15]
 
+## Day 88: October 2, 2017
+
+**Today's Progress**: Started ES6 for Everyone course.
+
+**Thoughts:** Got work to sponsor this course since we're moving ahead with Adobe Animate and Canvas for future projects. For the first module, I've learned some differences with how `var`, `let`, and `const` work.
+
+**Link to work:** [ES6.io][16]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
@@ -710,3 +718,4 @@
 [13]: https://github.com/gsbullmer/learning.python
 [14]: https://github.com/gsbullmer/checkio
 [15]: https://ibgdb.herokuapp.com/
+[16]: https://github.com/gsbullmer/es6.io
