@@ -703,6 +703,22 @@
 
 **Link to work:** [ES6.io][16]
 
+## Day 89: October 5, 2017
+
+**Today's Progress**: Continued ES6 for Everyone course.
+
+**Thoughts:** Today was all about arrow functions! I only sort of knew about arrow functions, but this covered when to and when not to use them as well as the gotchas, mostly involving `this` scoping.
+
+**Link to work:** [ES6.io][16]
+
+## Day 90: October 10, 2017
+
+**Today's Progress**: Continued ES6 for Everyone course.
+
+**Thoughts:** Today was all about template strings! I already knew how to use them because of JavaScript30, but I didn't know about tagged templates. I could see how this would be useful. Also covered new string methods.
+
+**Link to work:** [ES6.io][16]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
