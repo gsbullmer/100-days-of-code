@@ -727,6 +727,14 @@
 
 **Link to work:** [ES6.io][16]
 
+## Day 92: November 14, 2017
+
+**Today's Progress**: Continued ES6 for Everyone course.
+
+**Thoughts:** All about iterables and loops, primarily for..of loops and how they work for just about everything except Objects.
+
+**Link to work:** [ES6.io][16]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
