@@ -735,6 +735,14 @@
 
 **Link to work:** [ES6.io][16]
 
+## Day 93: November 15, 2017
+
+**Today's Progress**: Continued ES6 for Everyone course.
+
+**Thoughts:** New and overlooked Array methods. This module covered `Array.from()`, `Array.of()`, `.find()`, `.findIndex()`, and the often overlooked `.some()` and `.every()`. Very useful stuff!
+
+**Link to work:** [ES6.io][16]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
