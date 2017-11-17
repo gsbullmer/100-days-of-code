@@ -743,6 +743,14 @@
 
 **Link to work:** [ES6.io][16]
 
+## Day 94: November 17, 2017
+
+**Today's Progress**: Continued ES6 for Everyone course.
+
+**Thoughts:** `...spread` and `...rest` operators! These are super helpful operators to pack/unpack variables and arguments.
+
+**Link to work:** [ES6.io][16]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
