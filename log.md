@@ -751,6 +751,14 @@
 
 **Link to work:** [ES6.io][16]
 
+## Day 95: November 30, 2017
+
+**Today's Progress**: Continued ES6 for Everyone course.
+
+**Thoughts:** Promises and Symbols. I knew a little about Promises already, but this section expanded on that knowledge. Symbols, on the other hand, were completely new to me. I can see where they would come in handy, but I don't see myself really using them too often.
+
+**Link to work:** [ES6.io][16]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
