@@ -759,6 +759,14 @@
 
 **Link to work:** [ES6.io][16]
 
+## Day 96: December 4, 2017
+
+**Today's Progress**: Started working on [Advent of Code][17]
+
+**Thoughts:** Finished day 1. After reading that to become a great developer you need to code, this really helps out by providing challenges that I can complete using any language I see fit. Python it is!
+
+**Link to work:** [Advent of Code][17]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
@@ -775,3 +783,4 @@
 [14]: https://github.com/gsbullmer/checkio
 [15]: https://ibgdb.herokuapp.com/
 [16]: https://github.com/gsbullmer/es6.io
+[17]: https://github.com/gsbullmer/advent_of_code_2017
