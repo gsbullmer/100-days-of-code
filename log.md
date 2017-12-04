@@ -763,7 +763,7 @@
 
 **Today's Progress**: Started working on [Advent of Code][17]
 
-**Thoughts:** Finished day 1. After reading that to become a great developer you need to code, this really helps out by providing challenges that I can complete using any language I see fit. Python it is!
+**Thoughts:** Finished days 1 and 2. After reading that to become a great developer you need to code, this really helps out by providing challenges that I can complete using any language I see fit. Python it is!
 
 **Link to work:** [Advent of Code][17]
 
