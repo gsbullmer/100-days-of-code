@@ -767,6 +767,14 @@
 
 **Link to work:** [Advent of Code][17]
 
+## Day 97: December 6, 2017
+
+**Today's Progress**: Started working on [Advent of Code][17]
+
+**Thoughts:** Finished day 3. This one was a real stumper. I'm not too ashamed to say that I had to look up other people's solutions to figure part 1 out. Part 2? I actually created a spreadsheet to figure it out. Not the best method of solving, but it worked.
+
+**Link to work:** [Advent of Code][17]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
