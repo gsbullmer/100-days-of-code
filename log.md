@@ -775,6 +775,14 @@
 
 **Link to work:** [Advent of Code][17]
 
+## Day 98: December 7, 2017
+
+**Today's Progress**: Started working on [Advent of Code][17]
+
+**Thoughts:** Finished days 4 and 5. I enjoyed these days since I could actually solve them in a reasonable amount of time. The only issue I ran into was for day 5, I needed to use pypy instead of the standard CPython interpreter. Also, the `print` statement is very expensive. It changed my runtime from a very long time, to near-instantaneous in pypy.
+
+**Link to work:** [Advent of Code][17]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
