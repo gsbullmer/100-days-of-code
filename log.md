@@ -783,6 +783,14 @@
 
 **Link to work:** [Advent of Code][17]
 
+## Day 99: December 8, 2017
+
+**Today's Progress**: Started working on [Advent of Code][17]
+
+**Thoughts:** Finished day 6. Solved this one pretty quickly. Used CPython again since its easiest to use in VS Code.
+
+**Link to work:** [Advent of Code][17]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
