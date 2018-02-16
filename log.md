@@ -791,6 +791,14 @@
 
 **Link to work:** [Advent of Code][17]
 
+## Day 100: February 16, 2018
+
+**Today's Progress**: Finished ES6 for Everyone course.
+
+**Thoughts:** Just thought I'd finish out the `100 Days of Code`, rather than leave it on day 99.
+
+**Link to work:** [ES6.io][16]
+
 [1]: http://codepen.io/gsbullmer/full/VPLbag
 [2]: http://codepen.io/gsbullmer/full/ggMoar
 [3]: http://codepen.io/gsbullmer/pen/RKGqoB
